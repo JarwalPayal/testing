@@ -6,9 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import utilities.CommonUtils;
 
-public class LandingPage extends BaseClass {
+
+public class LandingPage  extends BaseClass{
 	
 WebDriver driver;
 	
@@ -17,7 +17,6 @@ WebDriver driver;
 		PageFactory.initElements(rdriver, this);
 		
 	}
-	CommonUtils utility= new CommonUtils();
 	@FindBy(xpath="//span[text()='Shop']")
 	WebElement shop;
 	
@@ -31,7 +30,7 @@ WebDriver driver;
 		Assert.assertTrue(true);
 
        product.click();
-        logger.info("Clicking on product :- " +product.getText());
+       logger.info("Clicking on product :- " +product.getText());
 
 		return this;
 		

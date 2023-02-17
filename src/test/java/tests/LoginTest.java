@@ -7,6 +7,7 @@ import pageObjects.BaseClass;
 import pageObjects.LandingPage;
 import pageObjects.LoginPage;
 
+
 public class LoginTest extends BaseClass{
 
 	@Test(priority=1)

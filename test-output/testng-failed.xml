@@ -9,9 +9,9 @@
     <classes>
       <class name="tests.LoginTest">
         <methods>
+          <include name="teardown"/>
           <include name="setup"/>
           <include name="testToVeriyCategory"/>
-          <include name="teardown"/>
         </methods>
       </class> <!-- tests.LoginTest -->
     </classes>

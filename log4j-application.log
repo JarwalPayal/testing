@@ -536,4 +536,110 @@
  2023-02-16 14:59:54,841  INFO [main] banking:52 - clicking on login btn
  2023-02-16 14:59:57,589  INFO [main] banking:30 - Clicking on shop :- SHOP
  2023-02-16 15:00:07,691  INFO [main] banking:53 - quit browser
+ 2023-02-16 18:30:18,403  INFO [main] banking:50 - Browser is lauching
+ 2023-02-16 18:30:19,139  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:30:19,370  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:30:24,377  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:30:26,108  INFO [main] banking:56 - quit browser
+ 2023-02-16 18:30:33,423  INFO [main] banking:50 - Browser is lauching
+ 2023-02-16 18:30:34,673  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:30:34,910  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:30:38,419  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:30:41,616  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-16 18:30:50,144  INFO [main] banking:56 - quit browser
+ 2023-02-16 18:31:18,084  INFO [main] banking:51 - Browser is lauching
+ 2023-02-16 18:31:18,905  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:31:19,149  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:31:22,105  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:31:23,962  INFO [main] banking:57 - quit browser
+ 2023-02-16 18:31:30,514  INFO [main] banking:51 - Browser is lauching
+ 2023-02-16 18:31:30,738  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:31:30,914  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:31:36,019  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:31:39,048  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-16 18:31:45,913  INFO [main] banking:57 - quit browser
+ 2023-02-16 18:32:53,776  INFO [main] banking:51 - Browser is lauching
+ 2023-02-16 18:32:54,432  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:32:54,646  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:32:57,568  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:32:58,282  INFO [main] banking:57 - quit browser
+ 2023-02-16 18:33:04,703  INFO [main] banking:51 - Browser is lauching
+ 2023-02-16 18:33:06,777  INFO [main] banking:38 - Enter a email
+ 2023-02-16 18:33:07,062  INFO [main] banking:46 - Enter a password :-
+ 2023-02-16 18:33:09,820  INFO [main] banking:52 - clicking on login btn
+ 2023-02-16 18:33:12,676  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-16 18:33:22,025  INFO [main] banking:57 - quit browser
+ 2023-02-17 10:40:41,634  INFO [main] banking:50 - Browser is lauching
+ 2023-02-17 10:40:44,918  INFO [main] banking:38 - Enter a email
+ 2023-02-17 10:40:45,135  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 10:40:50,079  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 10:40:51,455  INFO [main] banking:61 - quit browser
+ 2023-02-17 10:40:58,689  INFO [main] banking:50 - Browser is lauching
+ 2023-02-17 10:40:59,153  INFO [main] banking:38 - Enter a email
+ 2023-02-17 10:40:59,484  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 10:40:59,935  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 10:41:04,552  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 10:41:05,624  INFO [main] banking:61 - quit browser
+ 2023-02-17 10:48:45,131  INFO [main] banking:51 - Browser is lauching
+ 2023-02-17 10:48:45,931  INFO [main] banking:38 - Enter a email
+ 2023-02-17 10:48:46,175  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 10:48:49,050  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 10:48:50,774  INFO [main] banking:62 - quit browser
+ 2023-02-17 10:48:55,660  INFO [main] banking:51 - Browser is lauching
+ 2023-02-17 10:48:55,900  INFO [main] banking:38 - Enter a email
+ 2023-02-17 10:48:56,082  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 10:48:59,245  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 10:49:02,786  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 10:49:12,261  INFO [main] banking:62 - quit browser
+ 2023-02-17 11:02:45,678  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:02:49,407  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:02:50,778  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:02:51,039  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:02:52,213  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:02:53,046  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:02:55,518  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:02:58,428  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:02:59,014  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:03:00,805  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:03:02,868  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:03:06,883  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 11:03:52,732  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:03:55,475  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:03:56,050  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:03:56,257  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:03:59,748  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:04:00,644  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:04:02,648  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:04:05,602  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:04:06,233  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:04:06,506  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:04:10,848  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:04:13,798  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 11:04:21,550  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:07:23,525  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:07:26,414  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:07:26,956  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:07:27,245  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:07:29,736  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:07:30,737  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:07:33,013  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:07:35,701  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:07:36,124  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:07:36,420  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:07:37,097  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:07:41,146  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 11:07:47,483  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:09:48,306  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:09:51,222  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:09:51,771  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:09:52,017  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:09:54,623  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:09:55,512  INFO [main] banking:65 - quit browser
+ 2023-02-17 11:09:57,376  INFO [main] banking:48 - Chrome browser is lauching
+ 2023-02-17 11:10:00,331  INFO [main] banking:54 - Browser is lauching
+ 2023-02-17 11:10:00,709  INFO [main] banking:38 - Enter a email
+ 2023-02-17 11:10:00,936  INFO [main] banking:46 - Enter a password :-
+ 2023-02-17 11:10:03,665  INFO [main] banking:52 - clicking on login btn
+ 2023-02-17 11:10:06,891  INFO [main] banking:29 - Clicking on shop :- SHOP
+ 2023-02-17 11:10:13,760  INFO [main] banking:65 - quit browser
  
